@@ -1,0 +1,8 @@
+name: AntiDrop
+version: 1.0.0
+authors:
+  - JaegerNess
+  - JaegerDevelopment
+main: JD\AntiDrop
+api: 3.0.0
+description: Items not drops
